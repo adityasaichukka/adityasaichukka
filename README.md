@@ -2,8 +2,8 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on  with companies to get internship.
-- 📫 How to reach me chukkaaditya7@gmail.con
-- 😄 Pronouns: ...
+- 📫 How to reach me chukkaaditya7@gmail.com
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: ...i'm good at eating.
 
 <!---
