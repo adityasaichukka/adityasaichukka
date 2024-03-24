@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityasaichukka
+- 👋 Hi, I’m Chukka Aditya sai
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on  with companies to get internship.
