@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chukka Aditya sai
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine learning
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on  with companies to get internship.
 - 📫 How to reach me chukkaaditya7@gmail.com
 - 😄 Pronouns: He/him
